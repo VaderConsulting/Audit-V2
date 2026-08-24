@@ -1,0 +1,8 @@
+[History]
+B0=Audit/modMain/GetServiceType
+B1=Audit/modMain/ListSharedPrinters
+B2=Audit/modMain/ListLocalPrinters
+B3=Audit/modMain/DestinationReachable
+B4=Audit/modMain/Cleanup
+B5=Audit/frmMain/Form_Load
+B6=Audit/frmMain/cmdPrinters_Click

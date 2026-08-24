@@ -1,0 +1,940 @@
+Computername: BOB04
+Destination reachable: Yes (computer has one or more active LAN cards)
+OS: Windows NT
+Version: 5.1
+Processor: x86 Family 15 Model 3 Stepping 4
+ProcessorCount: Uniprocessor Free
+Service Pack 2
+Hotfixes:
+Hotfix: KB890175
+Comments: Windows XP Hotfix - KB890175
+Fix Description: Windows XP Hotfix - KB890175
+
+Hotfix: Q147222
+Comments: 
+Fix Description: 
+
+----------------------------------------
+Application List:
+Application: AddressBook
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Branding
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Connection Manager
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DirectAnimation
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DirectDrawEx
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: DXM_Runtime
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Fontcore
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Gadwin PrintScreen
+Display Name: Gadwin PrintScreen
+Display Version: 2.6
+Publisher: 
+Help URL: http://www.gadwin.com/support/index.htm
+
+Application: ICW
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE40
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE4Data
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IE5BAKEX
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: IEData
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Image Web Server IE Plugin
+Display Name: Image Web Server IE Plugins 1,7,1,43
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: KB890175
+Display Name: Windows XP Hotfix - KB890175
+Display Version: 20041201.233338
+Publisher: Microsoft Corporation
+Help URL: http://support.microsoft.com?kbid=890175
+
+Application: MobileOptionPack
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: MPlayer2
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: NetMeeting
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: OutlookExpress
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: PCHealth
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: PPTView97
+Display Name: Microsoft PowerPoint Viewer 97
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: SchedulingAgent
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: ShockwaveFlash
+Display Name: 
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: Visual Studio .NET Enterprise Architect 2003 - English
+Display Name: Microsoft Visual Studio .NET Enterprise Architect 2003 - English
+Display Version: 
+Publisher: Microsoft
+Help URL: http://support.microsoft.com/default.aspx?scid=FH;EN-US;vsnet&SD=GN&FR=0&LN=EN-US
+
+Application: Visual Studio 6.0 Enterprise Edition
+Display Name: Microsoft Visual Studio 6.0 Enterprise Edition
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: WebPost
+Display Name: Microsoft Web Publishing Wizard 1.53
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: {17B66E83-1BC9-11D5-A54A-0090278A1BB8}
+Display Name: Microsoft FrontPage Client - English
+Display Version: 7.00.9209
+Publisher: Microsoft
+Help URL: 
+
+Application: {1A655D51-1423-48A3-B748-8F5A0BE294C8}
+Display Name: Microsoft Visual J# .NET Redistributable Package 1.1
+Display Version: 1.1.4322
+Publisher: Microsoft
+Help URL: 
+
+Application: {1CC38A71-95C2-4D55-AD63-21847DE421CB}
+Display Name: MSDN Library - January 2005 DVD
+Display Version: 7.61.4316
+Publisher: Microsoft
+Help URL: 
+
+Application: {350C97B0-3D7C-4EE8-BAA9-00BCB3D54227}
+Display Name: WebFldrs XP
+Display Version: 9.50.7523
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {5E076CF2-EFED-43A2-A623-13E0D62EC7E0}
+Display Name: Windows Server 2003 Administration Tools Pack
+Display Version: 5.2.3790
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {6B604B4C-7507-44F3-972D-76BB3303648F}
+Display Name: SMSNomadP2P
+Display Version: 1.0.1
+Publisher: 1E Ltd
+Help URL: 
+
+Application: {7B484DB3-7442-4561-8B95-9B8B631888C2}
+Display Name: Patch Management Using Systems Management Server 2003
+Display Version: 3.0.0
+Publisher: Microsoft
+Help URL: 
+
+Application: {89B078C4-50B0-453E-BF53-3A7E6A0D85FA}
+Display Name: Windows Support Tools
+Display Version: 5.1.2600.2180
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {8A708DD8-A5E6-11D4-A706-000629E95E20}
+Display Name: Intel(R) Graphics Media Accelerator Driver
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: {90110409-6000-11D3-8CFE-0150048383C9}
+Display Name: Microsoft Office Professional Edition 2003
+Display Version: 11.0.5614.0
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {90510409-6000-11D3-8CFE-0150048383C9}
+Display Name: Microsoft Office Visio Professional 2003
+Display Version: 11.0.3216.5614
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {9D64C07F-2DE0-4269-82BA-0E024E8A8639}
+Display Name: Microsoft Tool Web Package : APIMON.EXE
+Display Version: 1.0.0.1
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {AC76BA86-7AD7-1033-7B44-A70000000000}
+Display Name: Adobe Reader 7.0
+Display Version: 7.0.0
+Publisher: Adobe Systems Incorporated
+Help URL: 
+
+Application: {C8141640-6633-428F-B26F-7DF406D1A0A8}
+Display Name: Microsoft Systems Management Server 2003 SDK Version 2 Setup
+Display Version: 2.50.3164.1000
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {C8A85DA5-779B-4429-9708-2DF17B7729A5}
+Display Name: SMS Management Point API
+Display Version: 2.50.3174.1015
+Publisher: Microsoft Corporation
+Help URL: 
+
+Application: {CB2F7EDD-9D1F-43C1-90FC-4F52EAE172A1}
+Display Name: Microsoft .NET Framework 1.1
+Display Version: 1.1.4322
+Publisher: Microsoft
+Help URL: 
+
+Application: {D4D24FE5-FAB3-4FE2-AFFC-623955F4DF3A}
+Display Name: Visual Studio.NET Baseline - English
+Display Version: 7.1.3088
+Publisher: Microsoft
+Help URL: 
+
+Application: {D6DE02C7-1F47-11D4-9515-00105AE4B89A}
+Display Name: Paint Shop Pro 7
+Display Version: 7.0.2.0000
+Publisher: Jasc Software Inc
+Help URL: 
+
+Application: {D8EA353C-64A4-4A2B-BE8C-942791B855B6}
+Display Name: PrimalScript 3.1
+Display Version: 
+Publisher: 
+Help URL: 
+
+Application: {E05F0409-0E9A-48A1-AC04-E35E3033604A}
+Display Name: Visual Studio .NET Enterprise Architect 2003 - English
+Display Version: 7.1.3088
+Publisher: Microsoft
+Help URL: 
+
+Application: {F377AA9E-D12C-11D4-A4ED-00C04F25604E}
+Display Name: API Monitor 1.5
+Display Version: 1.5.0
+Publisher: Rohitab Batra
+Help URL: 
+
+Application: {FCDC3CDD-F53E-4239-8CA5-BC492942931B}
+Display Name: SMS Advanced Client
+Display Version: 2.50.3174.1018
+Publisher: Microsoft Corporation
+Help URL: 
+
+----------------------------------------
+Executables:
+----------------------------------------
+Local Accounts:
+Name: ACTUser
+Fullname: Application Center Test Account
+Description: Account used to launch the Application Center Test Broker and Controller services
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: ASPNET
+Fullname: ASP.NET Machine Account
+Description: Account used for running the ASP.NET worker process (aspnet_wp.exe)
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: BWAdmin
+Fullname: 
+Description: Built-in account for administering the computer/domain
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: BWGuest
+Fullname: 
+Description: Built-in account for guest access to the computer/domain
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: HelpAssistant
+Fullname: Remote Desktop Help Assistant Account
+Description: Account for Providing Remote Assistance
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: IUSR_BOB04
+Fullname: Internet Guest Account
+Description: Built-in account for anonymous access to Internet Information Services
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: IWAM_BOB04
+Fullname: Launch IIS Process Account
+Description: Built-in account for Internet Information Services to start out of process applications
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: SMSNomadP2P&
+Fullname: SMSNomadP2P&
+Description: SMSNomadP2P Cache share account - DO NOT MODIFY
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: SQLDebugger
+Fullname: SQLDebugger
+Description: This user account is used by the Visual Studio .NET Debugger
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: SUPPORT_388945a0
+Fullname: CN=Microsoft Corporation,L=Redmond,S=Washington,C=US
+Description: This is a vendor's account for the Help and Support Service
+AccountDisabled: True
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+Name: VUSR_BOB04
+Fullname: VSA Server Account
+Description: Account for the Visual Studio Analyzer server components
+AccountDisabled: False
+IsAccountLocked: False
+Profile: 
+LoginScript: 
+HomeDirectory: 
+
+----------------------------------------
+Services: 
+Display name: Alerter
+Service name: Alerter
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Application Layer Gateway Service
+Service name: ALG
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Manual
+
+Display name: Application Management
+Service name: AppMgmt
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: ASP.NET State Service
+Service name: aspnet_state
+State: Stopped
+Account: NT AUTHORITY\NetworkService
+Startup: Manual
+
+Display name: Windows Audio
+Service name: AudioSrv
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Background Intelligent Transfer Service
+Service name: BITS
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Computer Browser
+Service name: Browser
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: SMS Agent Host
+Service name: CcmExec
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Indexing Service
+Service name: CiSvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: ClipBook
+Service name: ClipSrv
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: COM+ System Application
+Service name: COMSysApp
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Cryptographic Services
+Service name: CryptSvc
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: DCOM Server Process Launcher
+Service name: DcomLaunch
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: DHCP Client
+Service name: Dhcp
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Logical Disk Manager Administrative Service
+Service name: dmadmin
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Logical Disk Manager
+Service name: dmserver
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: DNS Client
+Service name: Dnscache
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: Error Reporting Service
+Service name: ERSvc
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Event Log
+Service name: Eventlog
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: COM+ Event System
+Service name: EventSystem
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Fast User Switching Compatibility
+Service name: FastUserSwitchingCompatibility
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Help and Support
+Service name: helpsvc
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Human Interface Device Access
+Service name: HidServ
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: HTTP SSL
+Service name: HTTPFilter
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: IIS Admin
+Service name: IISADMIN
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: IMAPI CD-Burning COM Service
+Service name: ImapiService
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Server
+Service name: lanmanserver
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Workstation
+Service name: lanmanworkstation
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: TCP/IP NetBIOS Helper
+Service name: LmHosts
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Auto
+
+Display name: Machine Debug Manager
+Service name: MDM
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Messenger
+Service name: Messenger
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: NetMeeting Remote Desktop Sharing
+Service name: mnmsrvc
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Distributed Transaction Coordinator
+Service name: MSDTC
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Manual
+
+Display name: Windows Installer
+Service name: MSIServer
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Network DDE
+Service name: NetDDE
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Network DDE DSDM
+Service name: NetDDEdsdm
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Net Logon
+Service name: Netlogon
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Network Connections
+Service name: Netman
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Network Location Awareness (NLA)
+Service name: Nla
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: NT LM Security Support Provider
+Service name: NtLmSsp
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Removable Storage
+Service name: NtmsSvc
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Office Source Engine
+Service name: ose
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Plug and Play
+Service name: PlugPlay
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: IPSEC Services
+Service name: PolicyAgent
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Protected Storage
+Service name: ProtectedStorage
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Remote Access Auto Connection Manager
+Service name: RasAuto
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Remote Access Connection Manager
+Service name: RasMan
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Remote Desktop Help Session Manager
+Service name: RDSessMgr
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Routing and Remote Access
+Service name: RemoteAccess
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Remote Registry
+Service name: RemoteRegistry
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Auto
+
+Display name: Remote Procedure Call (RPC) Locator
+Service name: RpcLocator
+State: Stopped
+Account: NT AUTHORITY\NetworkService
+Startup: Manual
+
+Display name: Remote Procedure Call (RPC)
+Service name: RpcSs
+State: Running
+Account: NT AUTHORITY\NetworkService
+Startup: Auto
+
+Display name: QoS RSVP
+Service name: RSVP
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Security Accounts Manager
+Service name: SamSs
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Smart Card
+Service name: SCardSvr
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Manual
+
+Display name: Task Scheduler
+Service name: Schedule
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Secondary Logon
+Service name: seclogon
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: System Event Notification
+Service name: SENS
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Windows Firewall/Internet Connection Sharing (ICS)
+Service name: SharedAccess
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Shell Hardware Detection
+Service name: ShellHWDetection
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: SMSNomadP2P
+Service name: SMSNomadP2P
+State: Stopped
+Account: LocalSystem
+Startup: Auto
+
+Display name: Print Spooler
+Service name: Spooler
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: System Restore Service
+Service name: srservice
+State: Stopped
+Account: LocalSystem
+Startup: Auto
+
+Display name: SSDP Discovery Service
+Service name: SSDPSRV
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Disabled
+
+Display name: Windows Image Acquisition (WIA)
+Service name: stisvc
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: MS Software Shadow Copy Provider
+Service name: SwPrv
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Performance Logs and Alerts
+Service name: SysmonLog
+State: Stopped
+Account: NT Authority\NetworkService
+Startup: Manual
+
+Display name: Telephony
+Service name: TapiSrv
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Terminal Services
+Service name: TermService
+State: Running
+Account: LocalSystem
+Startup: Manual
+
+Display name: Themes
+Service name: Themes
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Telnet
+Service name: TlntSvr
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Distributed Link Tracking Client
+Service name: TrkWks
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Universal Plug and Play Device Host
+Service name: upnphost
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Manual
+
+Display name: Uninterruptible Power Supply
+Service name: UPS
+State: Stopped
+Account: NT AUTHORITY\LocalService
+Startup: Manual
+
+Display name: Visual Studio Analyzer RPC bridge
+Service name: Visual Studio Analyzer RPC bridge
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Volume Shadow Copy
+Service name: VSS
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Windows Time
+Service name: W32Time
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: World Wide Web Publishing
+Service name: W3SVC
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: WebClient
+Service name: WebClient
+State: Running
+Account: NT AUTHORITY\LocalService
+Startup: Auto
+
+Display name: Windows Management Instrumentation
+Service name: winmgmt
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Portable Media Serial Number Service
+Service name: WmdmPmSN
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Windows Management Instrumentation Driver Extensions
+Service name: Wmi
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: WMI Performance Adapter
+Service name: WmiApSrv
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+Display name: Security Center
+Service name: wscsvc
+State: Stopped
+Account: LocalSystem
+Startup: Auto
+
+Display name: Automatic Updates
+Service name: wuauserv
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: SMS Remote Control Agent
+Service name: Wuser32
+State: Running
+Account: LocalSystem
+Startup: Auto
+
+Display name: Wireless Zero Configuration
+Service name: WZCSVC
+State: Stopped
+Account: LocalSystem
+Startup: Disabled
+
+Display name: Network Provisioning Service
+Service name: xmlprov
+State: Stopped
+Account: LocalSystem
+Startup: Manual
+
+----------------------------------------
