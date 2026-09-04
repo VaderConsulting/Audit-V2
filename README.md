@@ -21,6 +21,10 @@ source Visual Studio project from the Historical Dev archive. This is a historic
 
 Open `Audit.vbp` in the VB6 IDE.
 
+## Requirements
+
+- Visual Basic 6.0 IDE
+
 ## Attribution and provenance
 
 - No third-party source-code attribution markers were identified in assembly/package metadata.
