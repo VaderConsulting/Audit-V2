@@ -1,6 +1,6 @@
 # Audit V2
 
-source Visual Studio project from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+source Visual Studio project from the Historical Dev archive. Working copy from my Historical Dev folder.
 
 **Source last updated:** 2005-07-02  
 **Language:** VB6  
@@ -9,7 +9,7 @@ source Visual Studio project from the Historical Dev archive. This is a historic
 
 ## What it is
 
-source Visual Studio project from the Historical Dev archive. This is a historical working copy from Dave Robinson / VaderConsulting, published so the project can be found and understood from GitHub.
+source Visual Studio project from the Historical Dev archive. Working copy from my Historical Dev folder.
 
 ## Solution structure
 
@@ -27,6 +27,7 @@ Open `Audit.vbp` in the VB6 IDE.
 
 ## Attribution and provenance
 
+Working copy from my Historical Dev folder `Audit V2`.
 - No third-party source-code attribution markers were identified in assembly/package metadata.
 
 ## License
